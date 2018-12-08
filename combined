@@ -1,9 +1,4 @@
 
-# This R source code file corresponds to the YouTube series
-# "Introduction to Data Science with R" by David Langer located at the following URL:
-#     https://youtu.be/fuB7s19g3nQ     
-#
-
 
 # Load raw data
 train <- read.csv("train.csv", header = TRUE)
